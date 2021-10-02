@@ -1,4 +1,4 @@
-# Getting Started with Memory Game
+# Getting Started with Flats!!!
 
 ## Available Scripts
 
